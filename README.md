@@ -7,7 +7,7 @@ Assist with some development of an alternative way to visualize and analyze shar
 
 ## My Certificate of Completion 
 
-![]()
+![](https://github.com/mdsalman991/JPMorgan-Virtual-Internship/blob/e67c3134b4f0e037efd68b66e3d74beb13d46e53/JPMorganChase.pdf)
 
 ## For any queries/doubts:
 
